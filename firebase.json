@@ -1,0 +1,13 @@
+{
+  "hosting": {
+  
+  "site": "recipe-new50",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
